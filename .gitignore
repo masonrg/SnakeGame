@@ -1,0 +1,25 @@
+# Ignore Visual Studio files and build results
+
+# ============= #
+# Build Results #
+# ============= #
+[Dd]ebug/
+[Rr]elease/
+
+ 
+# ======================= #
+# Visual Studio Generated
+# ======================= #
+.vs/
+/*.sln*
+/*.pidb
+/*.vcxproj*
+/*.user
+/*.filter
+
+
+# =========== #
+# Other Files #
+# =========== #
+*.dll
+*.xcf
